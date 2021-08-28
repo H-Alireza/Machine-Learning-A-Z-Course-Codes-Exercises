@@ -1,1 +1,1 @@
-# Machine-Learning-A-Z-Course-Codes-Exercises
+Some Machine Learning notebooks + CSV files from a training course to recall and practice different branches of machine learning.
